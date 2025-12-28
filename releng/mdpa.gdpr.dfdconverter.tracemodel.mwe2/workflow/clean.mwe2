@@ -3,7 +3,7 @@ module mdpa.gdpr.dfdconverter.tracemodel.mwe2
 import tools.mdsd.ecoreworkflow.mwe2lib.bean.EclipseRCPSupportingStandaloneSetup
 import tools.mdsd.ecoreworkflow.mwe2lib.component.URISupportingDirectoryCleaner
 
-var workspaceRoot = "../../../"
+var workspaceRoot = "../../"
 
 Workflow {
 	bean = EclipseRCPSupportingStandaloneSetup {
